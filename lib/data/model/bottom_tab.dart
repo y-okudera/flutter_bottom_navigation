@@ -1,0 +1,4 @@
+enum BottomTab {
+  user,
+  item,
+}
